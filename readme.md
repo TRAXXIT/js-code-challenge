@@ -1,4 +1,4 @@
-# NGNRS Code Challenge #1 #
+# TRAXX Code Challenge #1 #
 
 Note that if you fork this repository, your responses may be publicly available.  
 Please submit your application along with the solutions attached or linked.   
